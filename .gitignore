@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Model weight files (auto-downloaded on first run)
+*.pt
+*.task
+
+# Training outputs
+runs/
+
+# Datasets (too large)
+merged_animals/
+ds_*/
+animal_dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Environment
+.env
