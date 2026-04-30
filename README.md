@@ -300,7 +300,7 @@ MIT License — free to use, modify and distribute.
 
 ## 👤 Author
 
-Built with ❤️ using Python, MediaPipe, YOLOv8 and Tkinter.
+Thamodharan k
 
 ---
 
