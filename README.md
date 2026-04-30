@@ -304,8 +304,3 @@ Thamodharan k
 
 ---
 
-<div align="center">
-
-**⭐ If you found this useful, please give it a star on GitHub! ⭐**
-
-</div>
